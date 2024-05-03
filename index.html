@@ -1,0 +1,30 @@
+<meta charset="utf-8">
+<title>Compile Error</title>
+<style>
+body {
+  line-height: 1.5em;
+}
+
+main {
+  margin: 50vh auto 0;
+  transform: translateY(-50%);
+  padding: 15px 30px;
+  text-align: center;
+}
+
+#code {
+  text-align: left;
+  display: inline-block;
+}
+</style>
+<main>
+<div id="code">
+<pre>
+<span style="font-weight:bold;">main.c:</span> In function ‘<span style="font-weight:bold;">main</span>’:
+<span style="font-weight:bold;">main.c:6:10:</span> <span style="font-weight:bold;color:red;">error: </span>‘<span style="font-weight:bold;">EXIT_SUCCESS</span>’ undeclared (first use in this function)
+    6 |   return <span style="font-weight:bold;color:red;">EXIT_SUCCESS</span>;
+      |          <span style="font-weight:bold;color:red;">^~~~~~~~~~~~</span>
+<span style="font-weight:bold;">main.c:6:10:</span> <span style="font-weight:bold;color:teal;">note: </span>each undeclared identifier is reported only once for each function it appears in
+</pre>
+</div>
+</main>
