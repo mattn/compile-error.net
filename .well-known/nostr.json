@@ -13,5 +13,13 @@
     "nullpoga": "4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf",
     "saizeriya-gacha": "d9edaaf93b107a00f0c592a64249899fda2360472b862199dcbc2d6108db71af",
     "whatstoday": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6"
-  }
+  },
+  "relays": [
+    "wss://relay.nostr.band/",
+    "wss://nos.lol/",
+    "wss://yabu.me/",
+    "wss://relay-jp.nostr.wirednet.jp/",
+    "wss://nostr.compile-error.net/",
+    "wss://cagliostr.compile-error.net/"
+  ]
 }
