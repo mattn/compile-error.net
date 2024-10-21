@@ -1,5 +1,6 @@
 {
   "names": {
+    "5000000000000000police": "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd",
     "_": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
     "buzzword": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
     "fushinsha": "53efc19ec1e2795adf40ffe8f23bb981aca01999b28b4beea67f07ec20123c98",
@@ -96,6 +97,14 @@
       "wss://cagliostr.compile-error.net/"
     ],
     "c06e3a91d9042ff772644751af82d3e3e7067715f1199c49787a7428525ef3c7": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/"
+    ],
+    "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd": [
       "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
