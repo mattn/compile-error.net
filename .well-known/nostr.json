@@ -9,6 +9,7 @@
     "mahjong": "5ac0427cf0588ae5c9f09aa800e99dbbe4dc19c16afbd322b94c016c085e1c0d",
     "makeitquote": "0c04b0d72e1ce6bb40fecdec6cf186a583d80676f5f33868981c79ee05736c39",
     "markov": "f0019b0732a2b1a70360fb8f5ddb7f40544f8b46b0c928e300b519f6d53ec7c9",
+    "mruby-chan": "9373f5d307abded88135654d49c1e623904dbbc938d0933fc20a8012428f6f2b",
     "nips-changes": "b2a0a51cebf0f93dd07b71e21fb500a12672eaaf5736ad8a8b197800eb1a9b38",
     "nullpoga": "4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf",
     "police5000000000000000": "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd",
@@ -89,6 +90,15 @@
       "wss://ruby-nostr-relay.compile-error.net/"
     ],
     "774c67bfd51e3c1fb52e88a6ece8909062f4e6e0ee1b8f9314dfa827f487459e": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://ruby-nostr-relay.compile-error.net/"
+    ],
+    "9373f5d307abded88135654d49c1e623904dbbc938d0933fc20a8012428f6f2b": [
       "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
