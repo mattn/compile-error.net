@@ -1,5 +1,6 @@
 {
   "names": {
+    "": "07a68e8cb73f599296f7ef5999c543c79b275a504316e1ebd106077f243506c1",
     "_": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
     "buzzword": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
     "fushinsha": "53efc19ec1e2795adf40ffe8f23bb981aca01999b28b4beea67f07ec20123c98",
@@ -14,10 +15,23 @@
     "police5000000000000000": "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd",
     "saizeriya-gacha": "c06e3a91d9042ff772644751af82d3e3e7067715f1199c49787a7428525ef3c7",
     "todo-bot": "9373f5d307abded88135654d49c1e623904dbbc938d0933fc20a8012428f6f2b",
-    "whatstoday": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6"
+    "whatstoday": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6",
+    "yagi-agent": "e92d1ec497769329176908cbec6ccde0528d893c8957e65062421c662c8d026e"
   },
   "relays": {
     "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://ruby-nostr-relay.compile-error.net/",
+      "wss://lua-nostr-relay.compile-error.net/",
+      "wss://lisp-nostr-relay.compile-error.net/",
+      "wss://nim-nostr-relay.compile-error.net/"
+    ],
+    "07a68e8cb73f599296f7ef5999c543c79b275a504316e1ebd106077f243506c1": [
       "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
@@ -162,6 +176,18 @@
       "wss://nim-nostr-relay.compile-error.net/"
     ],
     "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://ruby-nostr-relay.compile-error.net/",
+      "wss://lua-nostr-relay.compile-error.net/",
+      "wss://lisp-nostr-relay.compile-error.net/",
+      "wss://nim-nostr-relay.compile-error.net/"
+    ],
+    "e92d1ec497769329176908cbec6ccde0528d893c8957e65062421c662c8d026e": [
       "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
