@@ -13,6 +13,7 @@
     "nips-changes": "b2a0a51cebf0f93dd07b71e21fb500a12672eaaf5736ad8a8b197800eb1a9b38",
     "nullpoga": "4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf",
     "police5000000000000000": "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd",
+    "runbot": "e03dc556bd2434fcf9ab2fecbe14a5a902b06addaf2fd98055c6726af48c5215",
     "saizeriya-gacha": "c06e3a91d9042ff772644751af82d3e3e7067715f1199c49787a7428525ef3c7",
     "todo-bot": "9373f5d307abded88135654d49c1e623904dbbc938d0933fc20a8012428f6f2b",
     "whatstoday": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6",
@@ -176,6 +177,18 @@
       "wss://nim-nostr-relay.compile-error.net/"
     ],
     "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://ruby-nostr-relay.compile-error.net/",
+      "wss://lua-nostr-relay.compile-error.net/",
+      "wss://lisp-nostr-relay.compile-error.net/",
+      "wss://nim-nostr-relay.compile-error.net/"
+    ],
+    "e03dc556bd2434fcf9ab2fecbe14a5a902b06addaf2fd98055c6726af48c5215": [
       "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
