@@ -14,6 +14,7 @@ permissions:
   contents: read
   pages: write
   id-token: write
+  actions: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -38,6 +39,29 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
+      # Work around actions/upload-pages-artifact#97: a finalize-retry can
+      # create a duplicate "github-pages" artifact, which makes deploy-pages
+      # fail with "Multiple artifacts named github-pages ... count is 2".
+      # Keep only the newest one for this run before deploying.
+      - name: Remove duplicate Pages artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ids=$(gh api --paginate \
+            repos/${{ github.repository }}/actions/artifacts \
+            --jq ".artifacts[] | select(.workflow_run.id==${{ github.run_id }} and .name==\"github-pages\") | .id" \
+            | sort -n)
+          count=$(printf '%s\n' "$ids" | grep -c . || true)
+          echo "Found $count github-pages artifact(s) for run ${{ github.run_id }}"
+          if [ "$count" -gt 1 ]; then
+            keep=$(printf '%s\n' "$ids" | tail -1)
+            for id in $ids; do
+              if [ "$id" != "$keep" ]; then
+                echo "Deleting duplicate artifact $id (keeping $keep)"
+                gh api -X DELETE repos/${{ github.repository }}/actions/artifacts/$id
+              fi
+            done
+          fi
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
