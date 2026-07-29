@@ -1,5 +1,6 @@
 {
   "names": {
+    "47news": "1aff749bcecfccafe1ecf46ab25f06f140f1d18dc23b251dde58eb3c8a83db83",
     "_": "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc",
     "buzzword": "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd",
     "fushinsha": "53efc19ec1e2795adf40ffe8f23bb981aca01999b28b4beea67f07ec20123c98",
@@ -23,7 +24,6 @@
   },
   "relays": {
     "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -32,10 +32,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "07a68e8cb73f599296f7ef5999c543c79b275a504316e1ebd106077f243506c1": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -44,10 +45,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "0c04b0d72e1ce6bb40fecdec6cf186a583d80676f5f33868981c79ee05736c39": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -56,10 +58,24 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
+    ],
+    "1aff749bcecfccafe1ecf46ab25f06f140f1d18dc23b251dde58eb3c8a83db83": [
+      "wss://nos.lol/",
+      "wss://yabu.me/",
+      "wss://relay-jp.nostr.wirednet.jp/",
+      "wss://nostr.compile-error.net/",
+      "wss://cagliostr.compile-error.net/",
+      "wss://ruby-nostr-relay.compile-error.net/",
+      "wss://lua-nostr-relay.compile-error.net/",
+      "wss://lisp-nostr-relay.compile-error.net/",
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "2c7cc62a697ea3a7826521f3fd34f0cb273693cbe5e9310f35449f43622a5cdc": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -68,10 +84,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "3610fbb84e9901f98af397333f8d6cf84d0c9b62583204e2998b51e26e103c97": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -80,10 +97,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "4afc021c034d6fc25aa7989f24f83d1ba214ca0aaf45e090efc98e4d866076b1": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -92,10 +110,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "4e86cdbb1ed747ff40c65303d1fc463e10aecb113049b05fc4317c29e31ccaaf": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -104,10 +123,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "53efc19ec1e2795adf40ffe8f23bb981aca01999b28b4beea67f07ec20123c98": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -116,10 +136,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "5ac0427cf0588ae5c9f09aa800e99dbbe4dc19c16afbd322b94c016c085e1c0d": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -128,10 +149,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "67a8ed7e76c79b91ee33635adad073f9466b32ef213373afb2f330dfafa70ff6": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -140,10 +162,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "774c67bfd51e3c1fb52e88a6ece8909062f4e6e0ee1b8f9314dfa827f487459e": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -152,10 +175,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "9373f5d307abded88135654d49c1e623904dbbc938d0933fc20a8012428f6f2b": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -164,10 +188,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "b2a0a51cebf0f93dd07b71e21fb500a12672eaaf5736ad8a8b197800eb1a9b38": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -176,10 +201,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "c06e3a91d9042ff772644751af82d3e3e7067715f1199c49787a7428525ef3c7": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -188,10 +214,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "d1b6317496386b9b3026c16b506baa081ba986cacf69d6a278b013bbb88e78fd": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -200,10 +227,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "d95514886855b0214e135a946dfad936f2beea1f0226d512eb9bf7d34a361d35": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -212,10 +240,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "e03dc556bd2434fcf9ab2fecbe14a5a902b06addaf2fd98055c6726af48c5215": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -224,10 +253,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "e92d1ec497769329176908cbec6ccde0528d893c8957e65062421c662c8d026e": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -236,10 +266,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "f0019b0732a2b1a70360fb8f5ddb7f40544f8b46b0c928e300b519f6d53ec7c9": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -248,10 +279,11 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ],
     "f768fae9f2390a5223f000a424deb9302a9381e33abb8b084ca844f691b11cdd": [
-      "wss://relay.nostr.band/",
       "wss://nos.lol/",
       "wss://yabu.me/",
       "wss://relay-jp.nostr.wirednet.jp/",
@@ -260,7 +292,9 @@
       "wss://ruby-nostr-relay.compile-error.net/",
       "wss://lua-nostr-relay.compile-error.net/",
       "wss://lisp-nostr-relay.compile-error.net/",
-      "wss://nim-nostr-relay.compile-error.net/"
+      "wss://nim-nostr-relay.compile-error.net/",
+      "wss://moonbit-nostr-relay.compile-error.net/",
+      "wss://perl-nostr-relay.compile-error.net/"
     ]
   }
 }
