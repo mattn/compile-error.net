@@ -21,7 +21,7 @@
     "vim-jp-radio": "07a68e8cb73f599296f7ef5999c543c79b275a504316e1ebd106077f243506c1",
     "whatstoday": "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6",
     "yagi-agent": "e92d1ec497769329176908cbec6ccde0528d893c8957e65062421c662c8d026e",
-    "yahoo-localnews": "1aff749bcecfccafe1ecf46ab25f06f140f1d18dc23b251dde58eb3c8a83db83"
+    "yahoo-news": "1aff749bcecfccafe1ecf46ab25f06f140f1d18dc23b251dde58eb3c8a83db83"
   },
   "relays": {
     "0682bb334bffe49a1e6defd250e28c65c1737e8f339d394e40ca6adff27c84b6": [
